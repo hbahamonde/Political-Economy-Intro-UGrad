@@ -8,3 +8,7 @@ Pol_Econ_Dev_Syllabus_UGRAD.aux
 *.out
 
 *.gz
+
+*.fls
+
+*.fdb_latexmk
